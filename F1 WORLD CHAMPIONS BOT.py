@@ -1,3 +1,5 @@
+# the F1 World Champions database needs to be downloaded with this file for the bot to run
+
 import discord
 from discord.ext import commands
 import sqlite3
